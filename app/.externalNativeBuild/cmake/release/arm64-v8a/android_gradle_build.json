@@ -1,0 +1,47 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/liangqi/Documents/TestProject/SuperpoweredSDK/Android/CrossExample/app/src/main/jni/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/liangqi/Library/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/liangqi/Documents/TestProject/SuperpoweredSDK/Android/CrossExample/app/.externalNativeBuild/cmake/release/arm64-v8a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"SuperpoweredExample-Release-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "SuperpoweredExample",
+			"buildCommand" : "/Users/liangqi/Library/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/liangqi/Documents/TestProject/SuperpoweredSDK/Android/CrossExample/app/.externalNativeBuild/cmake/release/arm64-v8a --target SuperpoweredExample",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  -target aarch64-none-linux-android -gcc-toolchain /Users/liangqi/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/liangqi/Library/Android/sdk/ndk-bundle/platforms/android-21/arch-arm64  -DSuperpoweredExample_EXPORTS -I/Users/liangqi/Documents/TestProject/SuperpoweredSDK/Android/CrossExample/app/src/main/jni/src/main/jni -I/Users/liangqi/Documents/TestProject/SuperpoweredSDK/Superpowered -isystem /Users/liangqi/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/liangqi/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include -isystem /Users/liangqi/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -fsigned-char -I/Users/liangqi/Documents/TestProject/SuperpoweredSDK/Superpowered -O2 -DNDEBUG -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/liangqi/Documents/TestProject/SuperpoweredSDK/Android/CrossExample/app/src/main/jni/SuperpoweredExample.cpp",
+					"workingDirectory" : "/Users/liangqi/Documents/TestProject/SuperpoweredSDK/Android/CrossExample/app/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  -target aarch64-none-linux-android -gcc-toolchain /Users/liangqi/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/liangqi/Library/Android/sdk/ndk-bundle/platforms/android-21/arch-arm64  -DSuperpoweredExample_EXPORTS -I/Users/liangqi/Documents/TestProject/SuperpoweredSDK/Android/CrossExample/app/src/main/jni/src/main/jni -I/Users/liangqi/Documents/TestProject/SuperpoweredSDK/Superpowered -isystem /Users/liangqi/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/liangqi/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include -isystem /Users/liangqi/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -fsigned-char -I/Users/liangqi/Documents/TestProject/SuperpoweredSDK/Superpowered -O2 -DNDEBUG -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/liangqi/Documents/TestProject/SuperpoweredSDK/Superpowered/AndroidIO/SuperpoweredAndroidAudioIO.cpp",
+					"workingDirectory" : "/Users/liangqi/Documents/TestProject/SuperpoweredSDK/Android/CrossExample/app/.externalNativeBuild/cmake/release/arm64-v8a"
+				}
+			],
+			"output" : "/Users/liangqi/Documents/TestProject/SuperpoweredSDK/Android/CrossExample/app/build/intermediates/cmake/release/obj/arm64-v8a/libSuperpoweredExample.so",
+			"toolchain" : "15388099332862212417"
+		}
+	},
+	"toolchains" : 
+	{
+		"15388099332862212417" : 
+		{
+			"cCompilerExecutable" : "/Users/liangqi/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/liangqi/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

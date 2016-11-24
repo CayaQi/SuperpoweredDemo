@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/liangqi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/liangqi/Documents/TestProject/SuperpoweredSDK/Android/CrossExample/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_9e894889ca14c86977ff38c650edc9070bb10cce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liangqi/Documents/TestProject/SuperpoweredSDK/Android/CrossExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/liangqi/Documents/TestProject/SuperpoweredSDK/Android/CrossExample/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_90f2bd1886cb8696b12e3ba74faf362323f77a69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liangqi/Documents/TestProject/SuperpoweredSDK/Android/CrossExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/liangqi/Documents/TestProject/SuperpoweredSDK/Android/CrossExample/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_65b8094fbb5b1f5ed373f0ceafb1d15213e4bc2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liangqi/Documents/TestProject/SuperpoweredSDK/Android/CrossExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/liangqi/Documents/TestProject/SuperpoweredSDK/Android/CrossExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_e0dfa8bf5888e504214ed3e9d01a0676777fd898.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liangqi/Documents/TestProject/SuperpoweredSDK/Android/CrossExample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/liangqi/Documents/TestProject/SuperpoweredSDK/Android/CrossExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_c127c2eb9f63311cf6204440fc020d49596d7dd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liangqi/Documents/TestProject/SuperpoweredSDK/Android/CrossExample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/liangqi/Documents/TestProject/SuperpoweredSDK/Android/CrossExample/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_f896e3909e4a59b4e51cac01314b5e91144e2769.jar" />
+    </item>
+
+</items>
